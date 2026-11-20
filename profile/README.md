@@ -28,6 +28,10 @@
 - **[REST API](https://sendurl.to/docs?utm_source=github&utm_medium=directory) on every plan**, Free included: create links and read clicks from your code. See the [Python guide](https://sendurl.to/guides/url-shortener-api-python?utm_source=github&utm_medium=directory).
 - **Ten [free link tools](https://sendurl.to/tools?utm_source=github&utm_medium=directory)** with no sign-up, including a [UTM builder](https://sendurl.to/tools/utm-builder?utm_source=github&utm_medium=directory), a [QR code generator](https://sendurl.to/tools/qr-code-generator?utm_source=github&utm_medium=directory) and a [redirect checker](https://sendurl.to/tools/redirect-checker?utm_source=github&utm_medium=directory).
 
+## MCP server for AI assistants
+
+Create short links and read their clicks from Claude, ChatGPT, Cursor, VS Code and other MCP clients through SendURL's remote MCP server at `https://api.sendurl.to/mcp`. It is available on every plan, Free included, with nothing to install: sign in with OAuth or use an API key with only the permissions you choose. [How it works](https://sendurl.to/features/mcp?utm_source=github&utm_medium=directory) · [Client configs and docs: sendurl-to/sendurl-mcp](https://github.com/sendurl-to/sendurl-mcp)
+
 ## Screenshots
 
 | Click analytics | Countries, devices and referrers |
